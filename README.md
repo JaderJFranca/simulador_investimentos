@@ -34,5 +34,5 @@ O projeto é composto pelas seguintes abas (planilhas):
 4.  Visualize os resultados na aba **Painel**.
 
 ---
-**Desenvolvido por [Jader França]**
+**Desenvolvido por Jader França**
 *Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/jader-franca948/)*
